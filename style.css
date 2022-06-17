@@ -1,0 +1,30 @@
+* {
+    background-color: white;
+    color: black;
+    margin:0;
+    padding:0;
+}
+
+.header {
+    padding: 20px;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.body {
+    position: relative;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.getinline {
+    display: flex;
+    padding: 20px 20px 20px 20px; 
+}
+
+.getinline li {
+    word-spacing: 200px;
+}
